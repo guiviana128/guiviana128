@@ -68,7 +68,7 @@
 <div align="center">
   <h2> Statistics 🎯</h2>
   
-  <a href="https://github.com/Viana135" target="_blank">
+  <a href="https://github.com/guiviana128" target="_blank">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=guiviana128
 &show_icons=true&theme=onedark&hide_border=true&count_private=true" 
