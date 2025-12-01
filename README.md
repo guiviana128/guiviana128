@@ -70,8 +70,7 @@
   
   <a href="https://github.com/guiviana128" target="_blank">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=guiviana128
-&show_icons=true&theme=onedark&hide_border=true&count_private=true" 
+      src="https://github-readme-stats.vercel.app/api?username=guiviana128&show_icons=true&theme=onedark&hide_border=true&count_private=true" 
       alt="Estatísticas do GitHub de Viana135" 
       width="48%" 
       style="max-width: 450px;" 
