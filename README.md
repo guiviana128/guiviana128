@@ -67,22 +67,6 @@
 
 <div align="center">
   <h2> Statistics 🎯</h2>
-<div align="center">
-  <a href="https://github.com/guiviana128" target="_blank">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=guiviana128&show_icons=true&theme=dark&hide_border=true&count_private=true" 
-      alt="Estatísticas do GitHub de guiviana128" 
-      width="48%" 
-      style="max-width: 450px;" 
-    />
-  </a>
-  
-  <a href="https://github.com/guiviana128" target="_blank">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiviana128&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css" 
-      alt="Linguagens Mais Usadas por guiviana128" 
-      width="48%" 
-      style="max-width: 450px;"
-    />
-  </a>
-</div>
+
+[![Estatísticas do GitHub de guiviana128](https://github-readme-stats.vercel.app/api?username=guiviana128&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/guiviana128)
+[![Linguagens Mais Usadas por guiviana128](https://github-readme-stats.vercel.app/api/top-langs/?username=guiviana128&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css)](https://github.com/guiviana128)
