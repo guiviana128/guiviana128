@@ -9,8 +9,8 @@
 </div>
 
 
-<div>
-<p>Developer focused on Frontend and Backend, passionate about creating dynamic digital experiences.s.</p>
+<div align="center">
+<p>Developer focused on Frontend and Backend, passionate about creating dynamic digital experiences</p>
 
   <br>
 <div align="center">
