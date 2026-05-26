@@ -57,6 +57,7 @@
     <img src="https://img.icons8.com/?size=100&id=ETDhNONw82Nc&format=png&color=000000" alt="Ícone Java" height="60"/>
     &nbsp;&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="Ícone Visual Studio Code" height="60"/>
+     <img src = "https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" height = "60"/>
   </p>
 </div>
 
