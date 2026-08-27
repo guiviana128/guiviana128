@@ -48,11 +48,6 @@
   <h2>My Development Stack💻 <h2>
 
   <p>
-    <img src="https://img.icons8.com/ios/50/source-code.png" alt="Ícone HTML5" height="60"/> 
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://img.icons8.com/plasticine/100/css3.png" alt="Ícone CSS3" height="60"/>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Ícone JavaScript" height="60"/>
     &nbsp;&nbsp;&nbsp;
     <img src="https://img.icons8.com/?size=100&id=ETDhNONw82Nc&format=png&color=000000" alt="Ícone Java" height="60"/>
     &nbsp;&nbsp;&nbsp;
