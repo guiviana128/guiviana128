@@ -31,8 +31,8 @@ Estas linguagens aparecem nos meus repositórios públicos:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=guiviana128&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Estatísticas de commits e atividade do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiviana128&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas nos repositórios públicos" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiviana128&theme=tokyonight" alt="Estatísticas de commits e atividade do GitHub" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guiviana128&theme=tokyonight" alt="Linguagens mais usadas nos repositórios públicos" />
 
 <br />
 
