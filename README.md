@@ -10,20 +10,33 @@ Desenvolvedor focado em **front-end e back-end**, criando experiências digitais
 
 </div>
 
-## 💻 Linguagens e tecnologias
-
-Estas linguagens aparecem nos meus repositórios públicos:
+## 💻 Linguagens e ferramentas
 
 <div align="center">
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/guiviana128?tab=repositories)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/guiviana128?tab=repositories)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/guiviana128?tab=repositories)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/guiviana128?tab=repositories)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/guiviana128?tab=repositories)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://github.com/guiviana128?tab=repositories)
-[![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/guiviana128?tab=repositories)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/guiviana128?tab=repositories)
+**Linguagens, marcação e estilos**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" title="SQL" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Shell" title="Shell" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" title="PowerShell" width="48" height="48" />
+</p>
+
+**Frameworks e ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" width="48" height="48" />
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" alt="Google Antigravity" title="Google Antigravity" width="48" height="48" />
+</p>
 
 </div>
 
