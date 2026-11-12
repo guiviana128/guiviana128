@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Eu sou Guilherme Viana Santos 👋
+<h1>Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="mão acenando animada" width="36" height="36" /> eu sou Guilherme Viana</h1>
 
 Desenvolvedor focado em **front-end e back-end**, criando experiências digitais e projetos que resolvem problemas reais.
 
