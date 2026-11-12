@@ -1,60 +1,61 @@
-
 <div align="center">
-  <img src="https://camo.githubusercontent.com/9d883386105c50cfbe7c23ab4a42ee4ce0338765e691411c35cb53b81aa09701/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f3234302f74656c656772616d2f31663434622e676966" 
-       alt="GIF Mão Acenando" 
-       width="50" 
-       height="50"/>
 
-  <h1>Hello! I´m Guilherme Viana Santos</h1>
+# Olá! Eu sou Guilherme Viana Santos 👋
+
+Desenvolvedor focado em **front-end e back-end**, criando experiências digitais e projetos que resolvem problemas reais.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-viana-santos-b933182b3/)
+[![Instagram](https://img.shields.io/badge/Instagram-Acompanhar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui.viianaa/)
+[![E-mail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox/FMfcgzQcqtcNpHcWWNnFkQhDKWQSVlSF?compose=CllgCJqZhDTfxLPfLCccqXzPbpGMlXmZGHbhhftRRhWssnCjJrBfftDSlhZWJmDsvGfCxCZNxPg)
+
 </div>
 
+## 💻 Linguagens e tecnologias
+
+Estas linguagens aparecem nos meus repositórios públicos:
 
 <div align="center">
-<p>Developer focused on Frontend and Backend, passionate about creating dynamic digital experiences</p>
 
-  <br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
-         alt="Desenvolvedor trabalhando em pixel art" 
-         width="70%" />
-  </div>
-</div>
-  
-  <br>
-</div>
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/guiviana128?tab=repositories)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/guiviana128?tab=repositories)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/guiviana128?tab=repositories)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/guiviana128?tab=repositories)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/guiviana128?tab=repositories)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://github.com/guiviana128?tab=repositories)
+[![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/guiviana128?tab=repositories)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/guiviana128?tab=repositories)
 
-
-<hr/>
-<div align="center">
-  <h2> Contact me📧</h2>
-
-  <p>
-    <a href="https://www.instagram.com/gui.viianaa?igsh=MW05ZnFtMnNiYmU5eg%3D%3D&utm_source=qr" target="_blank">
-      <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" height="50"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox/FMfcgzQcqtcNpHcWWNnFkQhDKWQSVlSF?compose=CllgCJqZhDTfxLPfLCccqXzPbpGMlXmZGHbhhftRRhWssnCjJrBfftDSlhZWJmDsvGfCxCZNxPg">
-      <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Gmail" height="50" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/guilherme-viana-santos-b933182b3/" target="_blank">
-      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="50"/>
-    </a>
-  </p>
 </div>
 
-
-
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <h2>My Development Stack💻 <h2>
 
-  <p>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://img.icons8.com/?size=100&id=ETDhNONw82Nc&format=png&color=000000" alt="Ícone Java" height="60"/>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="Ícone Visual Studio Code" height="60"/>
-     <img src = "https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" height = "60"/>
-  </p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=guiviana128&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Estatísticas de commits e atividade do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiviana128&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas nos repositórios públicos" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=guiviana128&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
+
 </div>
 
+## 🐍 Minha atividade em commits
 
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guiviana128/guiviana128/main/assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guiviana128/guiviana128/main/assets/snake.svg" />
+  <img alt="Cobrinha animada percorrendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/guiviana128/guiviana128/main/assets/snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+*Construindo, aprendendo e compartilhando projetos.* 🚀
+
+</div>
