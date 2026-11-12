@@ -39,15 +39,18 @@ Desenvolvedor focado em **front-end e back-end**, criando experiências digitais
 ## 📫 Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-viana-santos-b933182b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/gui.viianaa/">
-    <img src="https://img.shields.io/badge/Instagram-Acompanhar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:guilhermevianasantos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <p>
+    <a href="https://www.linkedin.com/in/guilherme-viana-santos-b933182b3/"><img src="https://img.icons8.com/color/96/linkedin.png" alt="Ícone do LinkedIn" title="LinkedIn" width="56" height="56" /></a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/gui.viianaa/"><img src="https://img.icons8.com/fluency/96/instagram-new.png" alt="Ícone do Instagram" title="Instagram" width="56" height="56" /></a>
+    &nbsp;&nbsp;
+    <a href="mailto:guilhermevianasantos@gmail.com"><img src="https://img.icons8.com/color/96/gmail-new.png" alt="Ícone do Gmail" title="Gmail" width="56" height="56" /></a>
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/guilherme-viana-santos-b933182b3/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/gui.viianaa/"><img src="https://img.shields.io/badge/Instagram-Acompanhar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="mailto:guilhermevianasantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  </p>
 </div>
 
 ## 📊 Estatísticas do GitHub
