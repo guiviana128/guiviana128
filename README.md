@@ -4,10 +4,6 @@
 
 Desenvolvedor focado em **front-end e back-end**, criando experiências digitais e projetos que resolvem problemas reais.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-viana-santos-b933182b3/)
-[![Instagram](https://img.shields.io/badge/Instagram-Acompanhar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui.viianaa/)
-[![E-mail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox/FMfcgzQcqtcNpHcWWNnFkQhDKWQSVlSF?compose=CllgCJqZhDTfxLPfLCccqXzPbpGMlXmZGHbhhftRRhWssnCjJrBfftDSlhZWJmDsvGfCxCZNxPg)
-
 </div>
 
 ## 💻 Linguagens e ferramentas
@@ -38,6 +34,20 @@ Desenvolvedor focado em **front-end e back-end**, criando experiências digitais
   <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" alt="Google Antigravity" title="Google Antigravity" width="48" height="48" />
 </p>
 
+</div>
+
+## 📫 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-viana-santos-b933182b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/gui.viianaa/">
+    <img src="https://img.shields.io/badge/Instagram-Acompanhar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:guilhermevianasantos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
 ## 📊 Estatísticas do GitHub
